@@ -1,0 +1,8 @@
+{
+  "tslint.enable": false,
+  "tslint.jsEnable": false,
+  "typescript.format.enable": false,
+  "standard.enable": false,
+  "eslint.autoFixOnSave": true,
+  "eslint.enable": true
+}
